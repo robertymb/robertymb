@@ -1,6 +1,4 @@
-## Hi there! 👋 I am Roberty, a passionate Technical Product Manager at CI&T.
-
-🚀 10+ years of experience, developing and leading technical solutions in high-complexity environments. 
+10+ years of experience, developing and leading technical solutions in high-complexity environments. 
 
 Let's connect!
 
